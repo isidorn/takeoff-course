@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Takeoff: Cursor Course",
+  title: "Contoso",
   description: "This is the repo for the Cursor course on Takeoff."
 };
 
